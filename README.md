@@ -6,6 +6,14 @@
 
 A simple XOR string encryption library based on the JavaScript library [XOR-Crypt](https://github.com/RobLoach/xor-crypt) by [RobLoach](https://github.com/RobLoach) but in Python.
 
+## Installation
+
+```bash
+pip install xorCryptPy
+```
+
+You can also download the package manually from [PyPI](https://pypi.org/project/xorCryptPy/).
+
 ## Usage
 
 Works exactly like the JavaScript version. The same function encrypts and descripts a string using a given key.
