@@ -1,5 +1,9 @@
 # XOR-Crypt-Python
 
+[![PyPI Version](https://img.shields.io/pypi/v/xorCryptPy.svg)](https://pypi.python.org/pypi/xorCryptPy/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/xorCryptPy.svg)](https://pypi.python.org/pypi/xorCryptPy/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+
 A simple XOR string encryption library based on the JavaScript library [XOR-Crypt](https://github.com/RobLoach/xor-crypt) by [RobLoach](https://github.com/RobLoach) but in Python.
 
 ## Usage
