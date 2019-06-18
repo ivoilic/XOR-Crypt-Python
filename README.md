@@ -1,6 +1,6 @@
 # XOR-Crypt-Python
 
-A simple XOR string encryption library based on the JavaScript library [XOR-Crypt](https://github.com/RobLoach/xor-crypt) by [RobLoach](https://github.com/RobLoach) but in Python
+A simple XOR string encryption library based on the JavaScript library [XOR-Crypt](https://github.com/RobLoach/xor-crypt) by [RobLoach](https://github.com/RobLoach) but in Python.
 
 ## Usage
 
