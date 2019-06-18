@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-def xorCrypt(str, key):
+def xorCryptPy(str, key):
     """Encrypt or decrypt a string with the given XOR key."""
     try:
         key
