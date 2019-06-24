@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="xorCryptPy",
-    version="1.0.2",
+    version="1.0.3",
     author="Ivo Ilić",
     author_email="admin@ivoilic.com",
     description="Simple Python XOR string encryption library",
